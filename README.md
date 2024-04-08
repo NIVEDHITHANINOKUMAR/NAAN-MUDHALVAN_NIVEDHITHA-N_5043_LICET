@@ -2,7 +2,7 @@
 
 # MusicApp
 
-MusicApp is a web application built with Django for managing and sharing music tracks.
+MusicApp is a web application built with Django for managing and sharing music tracks.It contains various audios from numerous languages.
 
 ## Features
 
